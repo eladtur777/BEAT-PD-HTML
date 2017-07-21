@@ -8,7 +8,7 @@
       <h2>Spring Landing Pag</h2>
       <p>Click below button to get a simple HTML page</p>
 
-      <form:form method = "GET" action = "/pages/final.html">
+      <form:form method = "GET" action = "/pages/LoginPage.html">
          <table>
             <tr>
                <td>

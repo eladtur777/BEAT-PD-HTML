@@ -109,6 +109,6 @@ public class UserController {
     }
     @RequestMapping(value = "/staticPage", method = RequestMethod.GET)
     public String redirect() {
-        return "redirect:/pages/final.html";
+        return "redirect:/pages/LoginPage.html";
     }
 }
